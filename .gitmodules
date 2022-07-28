@@ -1,0 +1,3 @@
+[submodule "booknook-frontend"]
+	path = booknook-frontend
+	url = https://github.com/syk2021/booknook.git
